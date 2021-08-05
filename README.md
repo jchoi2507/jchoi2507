@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Jae Hwan (Jacob) Choi, a junior at Tufts University studying Mechanical Engineering and Mathematics
-- 👀 I’m interested in ground & flight-based robotics as well as general engineering topics
-- 💞️ I’m looking to collaborate on projects involving robot controls, simulations, path-programming, and sensors
+
